@@ -84,7 +84,7 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-          {to: '/Conselhos', label: 'Conselhos', position: 'left'},
+          {to: '/dicas', label: 'dicas', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
