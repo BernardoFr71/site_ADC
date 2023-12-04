@@ -51,7 +51,7 @@ Veja o que nossos clientes têm a dizer:
 
 Estamos aqui para atender às suas necessidades automotivas. Entre em contato conosco para agendar um serviço ou esclarecer dúvidas.
 
-- **Endereço:** Rua da Oficina, 123, Cidade
+- **Endereço:** Rua da Oficina, 123, Faro
 - **Telefone:** (+351) 912 345 678
 - **E-mail:** info@oficinabdt.com
 
