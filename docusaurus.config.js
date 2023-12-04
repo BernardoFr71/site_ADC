@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina BDT',
   tagline: 'Venha conhecer a nossa oficina!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/oficinabdt.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
