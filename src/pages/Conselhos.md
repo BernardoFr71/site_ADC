@@ -4,6 +4,8 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 ## 👉 O que fazer se o seu carro perde óleo?
 
+![Oleo](https://www.oficinasmforce.pt/uploads/subcanais2/dreamstime_xl_154358115.jpg)
+
 - **Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!
 
 [Leia mais]
@@ -50,6 +52,9 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 - **Descubra aqui os 6 fatores chave antes de tomar a decisão de escolher a sua oficina de automóveis! 
 
 [Leia mais]
+
+
+---
 
 ## Informações da Empresa
 - **Nome:** Oficina BDT
