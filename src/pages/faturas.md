@@ -52,9 +52,7 @@ Ao criar uma fatura, certifique-se de incluir os seguintes elementos:
    - Data de vencimento
    - Número da fatura
 
---
-
-## Duvidas e questões?
+## Duvidas e questões é ?
 
 # Oficina BDT - Faturação de venda
 
