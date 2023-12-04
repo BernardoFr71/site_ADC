@@ -1,23 +1,23 @@
 ---
-title: OFICINA BDT
+title: Faturação
 ---
 
 # Faturas
 
 Bem-vindo à nossa página de faturas e faturação. Aqui, na **Oficina BDT**, entendemos a importância de uma gestão financeira transparente e eficiente para nossos clientes. Abaixo, você encontrará detalhes abrangentes sobre nossas faturas e como garantimos uma experiência clara e justa em todas as transações.
 
-## O Que É Uma Fatura?
+## O Que é uma fatura?
 
 Uma fatura é um documento comercial que detalha os bens ou serviços fornecidos por um vendedor a um comprador. Contém informações cruciais, como a descrição dos itens, quantidade, preço unitário e o montante total devido.
 
-### Elementos Importantes das nossas faturas:
+### Elementos importantes das nossas faturas:
 
 1. **Informações da Empresa:**
    - Nome da empresa
    - Endereço
    - Número de telefone
    - Número de identificação fiscal (CNPJ, por exemplo)
-   
+
 
 2. **Informações do Cliente:**
    - Nome do cliente
@@ -45,7 +45,7 @@ Uma fatura é um documento comercial que detalha os bens ou serviços fornecidos
    - Número da fatura
 
 
-## Benefícios da Faturação Adequada
+## Benefícios da faturação adequada
 
 A faturação adequada desempenha um papel vital em nosso compromisso com transações transparentes. Alguns benefícios incluem:
 
@@ -55,7 +55,7 @@ A faturação adequada desempenha um papel vital em nosso compromisso com transa
 
 - *Rastreabilidade Financeira:* Através da faturação adequada, é possível rastrear facilmente as transações financeiras, o que é crucial para a contabilidade e relatórios financeiros.
 
-## Dicas para Compreender Sua Fatura
+## Dicas para compreender a sua fatura
 
 Ao receber uma fatura da Oficina BDT, aqui estão algumas dicas para garantir que você compreenda completamente os detalhes:
 
