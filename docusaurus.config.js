@@ -68,7 +68,7 @@ const config = {
         title: 'Oficina',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/oficinabdt.png',
         },
         items: [
           {to: '/faturas', label: 'Faturas', position: 'left'},
