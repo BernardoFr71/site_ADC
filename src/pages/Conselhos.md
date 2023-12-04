@@ -1,80 +1,55 @@
-# Conselhos
+# Dicas
 
 Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações essenciais sobre algum problema que o seu veiculo possa vir a apresentar ou esteja a apresentar!.
 
-## O que fazer se o seu carro perde óleo?
+## 👉 O que fazer se o seu carro perde óleo?
 
-Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!
-
-[Leia mais]
-
-## 10 Boas Práticas para Reduzir Consumos Energéticos
-
-A poupança de energia não está apenas destinada ao nosso lar. Com pequenas mudanças nos hábitos de condução, podemos também poupar energia na estrada!
+- **Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!
 
 [Leia mais]
 
-## Como fazer com que as escovas do carro durem mais
+## 👉 10 Boas Práticas para Reduzir Consumos Energéticos
 
-Encontre aqui as dicas essenciais para que as escovas limpa vidros durem mais.
-
-[Leia mais]
-
-## Que Tipos de Travões de Carros e Sistemas de Travagem Existem?
-
-Saiba aqui quais os diferentes tipos de travões do mercado, bem como as suas vantagens e desvantagens.
+- **A poupança de energia não está apenas destinada ao nosso lar. Com pequenas mudanças nos hábitos de condução, podemos também poupar energia na estrada!
 
 [Leia mais]
 
+## 👉 Como fazer com que as escovas do carro durem mais
 
-## 9 Melhores Dicas para Poupar Combustível
-
-Com os preços da gasolina e do gasóleo acima dos 2€/ litro, todos estamos a fazer contas à vida. Trazemos-lhe 9 dicas para poupar combustível
-
-[Leia mais]
-
-## Como proteger os pneus no Verão
-
-Os pneus são elementos vitais para a segurança e funcionamento do veículo. Com a chegada do verão, devemos ter alguns cuidados extra e verificar o estado das rodas antes de fazer viagens longas para os nossos destinos de férias.
+- **Encontre aqui as dicas essenciais para que as escovas limpa vidros durem mais.
 
 [Leia mais]
 
-## Carros Elétricos: tudo o que precisa de saber
+## 👉 Que Tipos de Travões de Carros e Sistemas de Travagem Existem?
 
-Os carros elétricos apresentam uma série de vantagens muito atrativas. Mas se continua a achar que “o elétrico talvez não seja para si” ou “não para já”, e nem entende bem que custos teria um carro elétrico, desfaça as suas dúvidas!
-
-[Leia mais]
-
-## Como saber se uma oficina de automóveis é de confiança?
-
-Descubra aqui os 6 fatores chave antes de tomar a decisão de escolher a sua oficina de automóveis! 
+- **Saiba aqui quais os diferentes tipos de travões do mercado, bem como as suas vantagens e desvantagens.
 
 [Leia mais]
 
 
+## 👉 9 Melhores Dicas para Poupar Combustível
 
+- **Com os preços da gasolina e do gasóleo acima dos 2€/ litro, todos estamos a fazer contas à vida. Trazemos-lhe 9 dicas para poupar combustível
 
+[Leia mais]
 
+## 👉 Como proteger os pneus no Verão
 
+- **Os pneus são elementos vitais para a segurança e funcionamento do veículo. Com a chegada do verão, devemos ter alguns cuidados extra e verificar o estado das rodas antes de fazer viagens longas para os nossos destinos de férias.
 
+[Leia mais]
 
+## 👉 Carros Elétricos: tudo o que precisa de saber
 
+- **Os carros elétricos apresentam uma série de vantagens muito atrativas. Mas se continua a achar que “o elétrico talvez não seja para si” ou “não para já”, e nem entende bem que custos teria um carro elétrico, desfaça as suas dúvidas!
 
+[Leia mais]
 
+## 👉 Como saber se uma oficina de automóveis é de confiança?
 
+- **Descubra aqui os 6 fatores chave antes de tomar a decisão de escolher a sua oficina de automóveis! 
 
-
-
-
-
-
-
-
-
-
-
-
-
+[Leia mais]
 
 ## Informações da Empresa
 - **Nome:** Oficina BDT
