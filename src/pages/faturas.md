@@ -6,7 +6,7 @@ title: Faturação
 
 Bem-vindo à nossa página de faturas e faturação. Aqui, na **Oficina BDT**, entendemos a importância de uma gestão financeira transparente e eficiente para nossos clientes. Abaixo, você encontrará detalhes abrangentes sobre nossas faturas e como garantimos uma experiência clara e justa em todas as transações.
 
-## O Que é uma fatura?
+## O que é uma fatura?
 
 ![fatura](https://www.izibizi.pt/uploads/U-gRROm_.jpg)
 

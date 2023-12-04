@@ -1,4 +1,6 @@
-# Bem-vindo à Oficina BDT
+# Bem-vindo à Oficina BDT 
+
+![bdt](https://www.bdt.de/fileadmin/theming/logo/BDT_Logo_RGB.svg)
 
 ## Sobre Nós
 
