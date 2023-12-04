@@ -8,7 +8,7 @@ Bem-vindo à nossa página de faturas e faturação. Aqui, na **Oficina BDT**, e
 
 ## O Que é uma fatura?
 
-![fatura](https://www.izibizi.pt/blog/fatura-fatura-recibo-fatura-simplificada-diferencas/)
+![fatura](https://www.oficinasmforce.pt/uploads/subcanais2/escovas_destaque.jpg)
 
 Uma fatura é um documento comercial que detalha os bens ou serviços fornecidos por um vendedor a um comprador. Contém informações cruciais, como a descrição dos itens, quantidade, preço unitário e o montante total devido.
 
@@ -49,6 +49,8 @@ Uma fatura é um documento comercial que detalha os bens ou serviços fornecidos
 
 ## Benefícios da faturação adequada
 
+![fatura adequada](https://www.deco.proteste.pt/-/media/edideco/images/home/dinheiro/impostos/news/2018/2via%20fatura/thumb-2via-fatura.jpg?rev=38857ce2-b089-4fe9-9571-96821f21c695&mw=660&hash=F4DAE5647F262D803E923B9733A677CE)
+
 A faturação adequada desempenha um papel vital em nosso compromisso com transações transparentes. Alguns benefícios incluem:
 
 - *Transparência Financeira:* Faturas claras proporcionam transparência nas transações comerciais, garantindo que ambas as partes entendam os termos do acordo.
@@ -68,6 +70,8 @@ Ao receber uma fatura da Oficina BDT, aqui estão algumas dicas para garantir qu
 > "**Entre em Contato:** Em caso de dúvidas ou preocupações sobre sua fatura, não hesite em entrar em contato conosco."
 
 ## Oficina BDT - Faturação de venda
+
+![bdt](https://www.bdt.de/fileadmin/theming/logo/BDT_Logo_RGB.svg)
 
 ## Informações da Empresa
 - **Nome:** Oficina BDT
