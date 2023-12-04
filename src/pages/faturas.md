@@ -2,6 +2,8 @@
 title: OFICINA BDT
 ---
 
+# Faturas
+
 Bem-vindo à nossa página de faturas e faturação. Aqui, você encontrará informações essenciais sobre o processo de faturação e detalhes relevantes para manter uma transação comercial transparente e eficiente.
 
 ## O Que É Uma Fatura?
@@ -17,6 +19,42 @@ A faturação adequada desempenha um papel vital em qualquer negócio. Alguns be
 - **Conformidade Fiscal:** Emitir faturas em conformidade com as regulamentações fiscais ajuda a evitar problemas legais e mantém o seu negócio em conformidade.
 
 - **Rastreabilidade Financeira:** Através da faturação adequada, é possível rastrear facilmente as transações financeiras, o que é crucial para a contabilidade e relatórios financeiros.
+
+## Como Elaborar uma Fatura
+
+Ao criar uma fatura, certifique-se de incluir os seguintes elementos:
+
+1. **Informações da Empresa:**
+   - Nome da empresa
+   - Endereço
+   - Número de telefone
+   - Número de identificação fiscal (CNPJ, por exemplo)
+
+2. **Informações do Cliente:**
+   - Nome do cliente
+   - Endereço de faturação
+   - Detalhes de contato
+
+3. **Itens Faturados:**
+   - Descrição dos produtos ou serviços
+   - Quantidade
+   - Preço unitário
+   - Total por item
+
+4. **Totais e Detalhes Financeiros:**
+   - Subtotal
+   - Descontos aplicados (se houver)
+   - Impostos
+   - Total a pagar
+
+5. **Informações Adicionais:**
+   - Data de emissão
+   - Data de vencimento
+   - Número da fatura
+
+--
+
+## Duvidas e questões?
 
 # Oficina BDT - Faturação de venda
 
