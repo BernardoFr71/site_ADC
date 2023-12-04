@@ -8,6 +8,8 @@ Bem-vindo à nossa página de faturas e faturação. Aqui, na **Oficina BDT**, e
 
 ## O Que é uma fatura?
 
+![fatura](https://www.izibizi.pt/blog/fatura-fatura-recibo-fatura-simplificada-diferencas/)
+
 Uma fatura é um documento comercial que detalha os bens ou serviços fornecidos por um vendedor a um comprador. Contém informações cruciais, como a descrição dos itens, quantidade, preço unitário e o montante total devido.
 
 ### Elementos importantes das nossas faturas:
