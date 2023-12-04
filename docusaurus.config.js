@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Test Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Oficina',
+  tagline: 'Venha conhecer a nossa oficina!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt'],
   },
 
   presets: [
@@ -88,6 +88,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'Faturacao',
+            items: [
+              {
+                label: 'Faturas',
+                to: '/src/pages/faturas',
+              },
+            ],
+          },
           {
             title: 'Docs',
             items: [
