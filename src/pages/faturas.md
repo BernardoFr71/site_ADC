@@ -69,6 +69,12 @@ Ao receber uma fatura da Oficina BDT, aqui estão algumas dicas para garantir qu
 
 > "**Entre em Contato:** Em caso de dúvidas ou preocupações sobre sua fatura, não hesite em entrar em contato conosco."
 
+## Conclusão
+
+A faturação é uma parte crucial da condução de negócios na Oficina BDT. Além de ser uma prática necessária para fins fiscais, uma fatura bem elaborada contribui para relações comerciais saudáveis e transparentes.
+
+Agradecemos por confiar na Oficina BDT para suas necessidades automotivas!
+
 ## Oficina BDT - Faturação de venda
 
 ![bdt](https://www.bdt.de/fileadmin/theming/logo/BDT_Logo_RGB.svg)
@@ -89,12 +95,6 @@ Ao receber uma fatura da Oficina BDT, aqui estão algumas dicas para garantir qu
 - **Telefone:** (+351) 966 111 222
 
 ---
-
-## Conclusão
-
-A faturação é uma parte crucial da condução de negócios na Oficina BDT. Além de ser uma prática necessária para fins fiscais, uma fatura bem elaborada contribui para relações comerciais saudáveis e transparentes.
-
-Agradecemos por confiar na Oficina BDT para suas necessidades automotivas!
 
 *Última Atualização: Dezembro de 2023*
 
