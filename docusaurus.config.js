@@ -71,6 +71,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {to: '/faturas', label: 'Faturas', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -88,15 +89,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Faturacao',
-            items: [
-              {
-                label: 'Faturas',
-                to: '/faturas',
-              },
-            ],
-          },
           {
             title: 'Docs',
             items: [
