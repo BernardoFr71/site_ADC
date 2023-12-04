@@ -84,6 +84,13 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {to: '/Conselhos', label: 'Conselhos', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Tutorial',
+          },
         ],
       },
       footer: {
