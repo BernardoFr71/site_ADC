@@ -25,15 +25,19 @@ A faturação adequada desempenha um papel vital em qualquer negócio. Alguns be
 Ao criar uma fatura, certifique-se de incluir os seguintes elementos:
 
 1. **Informações da Empresa:**
+
    - Nome da empresa
    - Endereço
    - Número de telefone
    - Número de identificação fiscal (CNPJ, por exemplo)
 
+
 2. **Informações do Cliente:**
+
    - Nome do cliente
    - Endereço de faturação
    - Detalhes de contato
+
 
 3. **Itens Faturados:**
    - Descrição dos produtos ou serviços
@@ -41,20 +45,22 @@ Ao criar uma fatura, certifique-se de incluir os seguintes elementos:
    - Preço unitário
    - Total por item
 
+
 4. **Totais e Detalhes Financeiros:**
+
    - Subtotal
    - Descontos aplicados (se houver)
    - Impostos
    - Total a pagar
 
+
 5. **Informações Adicionais:**
+
    - Data de emissão
    - Data de vencimento
    - Número da fatura
 
-## Duvidas e questões é ?
-
-# Oficina BDT - Faturação de venda
+## Oficina BDT - Faturação de venda
 
 ## Informações da Empresa
 - **Nome:** Oficina BDT
