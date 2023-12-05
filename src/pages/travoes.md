@@ -12,10 +12,10 @@ Em seguida, contamos-lhe tudo sobre os travões para automóvel:
 
  
 
-## TRAVÃO DE SERVIÇO VS. TRAVÃO DE MÃO
+# TRAVÃO DE SERVIÇO VS. TRAVÃO DE MÃO
 Primeiro, precisamos de distinguir o travão de serviço do travão de mão. Todos os veículos têm um travão de serviço (que reduz a velocidade) e um travão de mão (que mantém o automóvel imobilizado). Embora o objetivo seja o mesmo – parar o movimento das rodas – ambos funcionam de modos diferentes. Os tipos de travões de que vamos falar hoje são os travões de serviço.
 
-## O QUE É O SISTEMA DE TRAVAGEM ABS?
+# O QUE É O SISTEMA DE TRAVAGEM ABS?
 O sistema de travagem antibloqueio, conhecido pela sigla ABS (Anti Blocking System em Inglês), evita o bloqueio das rodas durante uma travagem repentina. Quando o sistema deteta indícios de bloqueio nos travões, regula a pressão automaticamente sem que o condutor tenha de intervir. Embora tudo isto lhe possa parecer muito teórico, na prática tem aplicações muito concretas. 
 
 Graças ao mecanismo antibloqueio, o condutor consegue manter a estabilidade, a aderência e direcionalidade na condução. Ou seja, o condutor mantém o controlo da travagem, do volante e consegue desviar-se dos obstáculos com mais facilidade. Então, em condições normais de condução (sem neve ou gravilha), o ABS funciona efetivamente como um sistema de segurança ativa. 
