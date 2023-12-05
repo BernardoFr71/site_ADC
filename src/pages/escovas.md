@@ -8,7 +8,7 @@ As escovas do carro desempenham um papel fundamental, especialmente nos meses em
 
 
 
-# MOTIVOS PARA REALIZAR A MANUTENÇÃO DAS ESCOVAS DO CARRO
+## MOTIVOS PARA REALIZAR A MANUTENÇÃO DAS ESCOVAS DO CARRO
 
 O mau funcionamento do limpa pára-brisas ou umas escovas em mau estado representam um sério risco para a segurança rodoviária, uma vez que aumentam o risco de acidentes devido à má visibilidade. Além disso, podem danificar ou arranhar a superfície do pára-brisas. Por esta razão, as escovas devem ser mudadas pelo menos uma vez por ano, ou quando o desgaste for notório.
 
@@ -16,7 +16,7 @@ Se quiser aumentar a vida útil das escovas do seu carro, deve fazer uma manuten
 
 
 
-# COMO LIMPAR AS ESCOVAS LIMPA VIDROS?
+## COMO LIMPAR AS ESCOVAS LIMPA VIDROS?
 
 Limpar as escovas com frequência vai ajudar a mantê-las em boas condições por mais tempo. Normalmente, é suficiente limpá-las uma vez por mês, mas se utilizar o seu veículo em zonas mais poluídas, com mais pólen no ar ou com areia, então o melhor é executar a operação semanalmente.
 
@@ -26,6 +26,6 @@ Se estaciona o seu carro numa garagem e faz a manutenção frequente das escovas
 
 
 
-# QUANDO DEVE TROCAR AS ESCOVAS AUTO?
+## QUANDO DEVE TROCAR AS ESCOVAS AUTO?
 
 Um sinal de que deve trocar as escovas limpa pára-brisas é quando elas se movem com dificuldade, fazendo barulho no vidro. Por outro lado, se ao ativar os limpa pára-brisas verifica que há zonas que não são limpas, então as escovas ou partes das escovas estão deterioradas. Ou seja, está mesmo na hora de substituir as escovas
