@@ -12,10 +12,10 @@ Em seguida, contamos-lhe tudo sobre os travões para automóvel:
 
  
 
-# TRAVÃO DE SERVIÇO VS. TRAVÃO DE MÃO
+## TRAVÃO DE SERVIÇO VS. TRAVÃO DE MÃO
 Primeiro, precisamos de distinguir o travão de serviço do travão de mão. Todos os veículos têm um travão de serviço (que reduz a velocidade) e um travão de mão (que mantém o automóvel imobilizado). Embora o objetivo seja o mesmo – parar o movimento das rodas – ambos funcionam de modos diferentes. Os tipos de travões de que vamos falar hoje são os travões de serviço.
 
-# O QUE É O SISTEMA DE TRAVAGEM ABS?
+## O QUE É O SISTEMA DE TRAVAGEM ABS?
 O sistema de travagem antibloqueio, conhecido pela sigla ABS (Anti Blocking System em Inglês), evita o bloqueio das rodas durante uma travagem repentina. Quando o sistema deteta indícios de bloqueio nos travões, regula a pressão automaticamente sem que o condutor tenha de intervir. Embora tudo isto lhe possa parecer muito teórico, na prática tem aplicações muito concretas. 
 
 Graças ao mecanismo antibloqueio, o condutor consegue manter a estabilidade, a aderência e direcionalidade na condução. Ou seja, o condutor mantém o controlo da travagem, do volante e consegue desviar-se dos obstáculos com mais facilidade. Então, em condições normais de condução (sem neve ou gravilha), o ABS funciona efetivamente como um sistema de segurança ativa. 
@@ -24,21 +24,20 @@ Apesar de ter sido patenteado pela primeira vez pela Bosch em 1936, só se torno
 
 O ABS tornou-se obrigatório nos países da União Europeia desde 2004.
 
->
 ## TIPOS DE TRAVÕES DE SERVIÇO: TRAVÕES DE TAMBOR VS. TRAVÕES DE DISCO
-
-![tambor](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/travao-de-tambor.jpg)
 
 ## Travões de Tambor
 Este tipo de travões é antecessor dos travões de disco. Os travões de tambor ainda continuam a ser utilizados na sua grande maioria, senão totalidade, no eixo traseiro de determinadas viaturas. A nível de custos de produção, estes são mais reduzidos e a nível de eficácia continuam a não comprometer e a apresentar bons resultados. 
 
+![tambor](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/travao-de-tambor.jpg)
+
 ### Como funcionam os travões de tambor?
 Os travões de tambor são formados por um tambor que gira com a roda, um cilindro com acionamento hidráulico, maxilas com material de fricção, afinador e molas. Quando carregamos no pedal de travão, o cilindro, por ação do sistema hidráulico, empurra as maxilas contra o tambor – o que provoca a paragem das rodas.
 
-![disco](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/disco-e-pastilhas-de-travao.jpg)
-
 ## Travões de Disco
 Os travões de disco são um sistema de travagem mais eficiente em relação ao de tambor. Funcionam com um disco, que lhe dá o nome, pastilhas e um pistão de acionamento hidráulico. As pastilhas e os discos do travão têm mínimos de espessura definidos e têm de ser trocados quando os ultrapassam.
+
+![disco](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/disco-e-pastilhas-de-travao.jpg)
 
 ### Como funcionam os travões de disco?
 Quando o condutor pisa no pedal de travão, a bomba hidráulica aciona os pistões com o líquido dos travões. Estes pistões empurram as pastilhas do travão, que por sua vez criam fricção contra o disco – e é esta fricção que faz reduzir a velocidade do automóvel.
