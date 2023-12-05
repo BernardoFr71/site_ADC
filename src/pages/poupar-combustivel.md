@@ -4,7 +4,7 @@
 
 Com os preços da gasolina e do gasóleo acima dos dois euros por litro, todos estamos a fazer contas à vida. Por isso, hoje trazemos 9 dicas para poupar combustível, a começar logo que abastece! 
 
-# 1. A POUPANÇA COMEÇA ENQUANTO ABASTECE:
+# 1. A POUPANÇA COMEÇA ENQUANTO ABASTECE
 
 Sabia que o combustível fica mais denso quando a temperatura baixa? Na prática, significa que há mais massa em cada litro de combustível. Então, se abastecer de manhã ou à noite, consegue “comprar mais por menos”. E já que falamos na quantidade de litros que abastece, não faça muita força na “pistola”. Quando aperta com muita força, deixa passar mais vapor que ocupa espaço no depósito. Por isso, tente encher o depósito devagar e gentilmente.
 
