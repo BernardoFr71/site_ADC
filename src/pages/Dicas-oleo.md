@@ -38,11 +38,11 @@ A vareta do óleo está lá para nos ajudar a verificar o nível de óleo. No en
 **4.** Insira a vareta até ao fundo do reservatório e retire-a cuidadosamente;
 **5.** Verifique se o óleo se encontra entre as indicações “mínimo” e “máximo”.
 
-✔ ️ Se o nível de óleo ainda estiver entre os limiares mínimo e máximo, pode respirar de alívio e procurar calmamente uma oficina.
-<br>
-❌ Se o nível de óleo estiver abaixo do mínimo, pode ser uma avaria grave com potencial para gerar outra avaria ainda pior no motor. Por isso, recomendamos que encha o depósito ou, se possível, que evite conduzir. 
-<br>
-❌ Se o nível do óleo estiver acima do máximo, trata-se de óleo em excesso! No caso de ter adicionado óleo a mais, há o risco de começar a arder. Por isso, não circule com o carro e contacte a assistência retirar o óleo excedente.
+- ✔ ️ Se o nível de óleo ainda estiver entre os limiares mínimo e máximo, pode respirar de alívio e procurar calmamente uma oficina.
+&nbsp;
+- ❌ Se o nível de óleo estiver abaixo do mínimo, pode ser uma avaria grave com potencial para gerar outra avaria ainda pior no motor. Por isso, recomendamos que encha o depósito ou, se possível, que evite conduzir. 
+&nbsp;
+- ❌ Se o nível do óleo estiver acima do máximo, trata-se de óleo em excesso! No caso de ter adicionado óleo a mais, há o risco de começar a arder. Por isso, não circule com o carro e contacte a assistência retirar o óleo excedente.
 
 ### 3. Procure a causa da fuga
 
