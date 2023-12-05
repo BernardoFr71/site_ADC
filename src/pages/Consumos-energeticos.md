@@ -17,33 +17,27 @@ Texto criado em colaboração com a Galp
 &nbsp;
 1. Respeite os Limites de Velocidade
 Uma condução ecológica, para além de aumentar a sua segurança, reduz bastante os consumos e as emissões. Ao cumprir os limites de velocidade e evitar acelerações e desacelerações bruscas, está a economizar bastante combustível. Por exemplo, se reduzir de 100 km/h para 80 km/h poupa 15% em combustível!
-<br>
 
 2. Não Conduza se não for necessário
 Muitas vezes, conduzimos distâncias tão pequenas que poderiam ser facilmente percorridas a pé ou de bicicleta. Ajude o meio ambiente e o seu bolso e, se conseguir, deixe o carro na garagem!
-<br>
  
 
 3. Evite ficar Parado com o Motor Ligado
 Existe a ideia de que compensa mais deixar o carro ligado do que desligá-lo, uma vez que consome muito no seu arranque, mas é apenas um mito. Pare o motor se prevê ficar parado mais que 1 minuto. E se o seu automóvel estiver equipado com sistema start&stop, ative-o!
-<br>
  
 
 4. Tenha Atenção aos Pneus
 Avalie regularmente o estado dos pneus! Os pneus com desgaste acima do permitido, para além de constituírem um risco para a sua condução, podem constituir uma contraordenação. Todos os cuidados são poucos, por isso, verifique também periodicamente a pressão dos pneus e ajuste-a em função da recomendação do fabricante do seu automóvel.
-<br>
  
 
 5. Alivie o Peso do Carro
 Sabia que, em regra, para cada 50 quilos que transporta no seu carro o consumo de combustível aumenta até 2%? O aumento do peso de um carro traduz-se no aumento de consumos e desgaste dos materiais. Retire todos os materiais que não são necessários, incluindo a bagageira externa!
-<br>
  
 
 6. Verifique os Níveis de Óleo
 Verifique o nível do óleo com regularidade e faça as manutenções preventivas indicadas pelo fabricante. Se necessário, substitua o óleo e os filtros de combustível!
 &nbsp;
 ![troca](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/hghjgh.jpg)
-<br>
 <br>
 
 7. Tenha Atenção ao Ar Condicionado
