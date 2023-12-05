@@ -24,7 +24,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Encontre aqui as dicas essenciais para que as escovas limpa vidros durem mais.*
 
-[Leia mais]
+[Leia mais](https://bernardofr71.github.io/site_ADC/escovas/)
 
 ## Que Tipos de Travões de Carros e Sistemas de Travagem Existem?
 &nbsp;

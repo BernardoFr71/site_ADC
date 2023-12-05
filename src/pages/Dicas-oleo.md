@@ -66,5 +66,4 @@ Em primeiro lugar, utilize sempre o óleo recomendado pelo fabricante e evite ó
 <br>
 Em segundo lugar, é recomendável trocar o filtro do óleo quando troca o óleo do motor. A função do filtro do óleo é precisamente filtrar as impurezas que ficam no óleo quando este lubrifica os diferentes componentes mecânicos do motor, como resíduos de combustão ou fragmentos metálicos. Por isso, um filtro antigo reduz a quantidade de óleo que passa para o motor.
 <br>
-<br>
 Esperamos que agora esteja consciente da importância de verificar regularmente o nível de óleo e de usar apenas as marcas de óleo lubrificante recomendadas pelo fabricante. A par desta informação, devia saber como mudar o óleo do carro, os tipos de óleo que existem e a sua durabilidade. 
