@@ -15,6 +15,8 @@ Quem é que gosta de ser surpreendido por uma fatura demasiado alta? Se o seu or
 # 3. MATERIAIS & PEÇAS
 Algumas oficinas de carros “poupam” ao utilizar peças, componentes e consumíveis de marca branca. Apesar de ser uma “poupança” aparente no preço, pode não significar uma poupança a longo prazo – geralmente, os produtos de marcas fabricantes têm uma vida útil superior e só as peças homologadas pelo fabricante mantêm a garantia do veículo. Quanto aos consumíveis, mantenha um olho atento. Se for mudar o óleo do motor, por exemplo, pergunte sempre qual é marca, o tipo de óleo, a viscosidade e o desempenho. Mesmo que não tenha acesso às fichas técnicas, pode sempre pedir para ver o rótulo e a embalagem. Mas já que estamos a falar tanto no fabricante, é mesmo verdade que tem de fazer a revisão do carro no concessionário para não perder a garantia?
 
+![peças](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/dfgfdg.jpg)
+
 # 4. GARANTIA & GARANTIA DO FABRICANTE
 Comprava um eletrodoméstico sem garantia? Provavelmente não.
 
