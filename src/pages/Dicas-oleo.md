@@ -38,11 +38,11 @@ A vareta do óleo está lá para nos ajudar a verificar o nível de óleo. No en
 **4.** Insira a vareta até ao fundo do reservatório e retire-a cuidadosamente;
 **5.** Verifique se o óleo se encontra entre as indicações “mínimo” e “máximo”.
 
-- ✔ ️ Se o nível de óleo ainda estiver entre os limiares mínimo e máximo, pode respirar de alívio e procurar calmamente uma oficina.
-&nbsp;
-- ❌ Se o nível de óleo estiver abaixo do mínimo, pode ser uma avaria grave com potencial para gerar outra avaria ainda pior no motor. Por isso, recomendamos que encha o depósito ou, se possível, que evite conduzir. 
-&nbsp;
-- ❌ Se o nível do óleo estiver acima do máximo, trata-se de óleo em excesso! No caso de ter adicionado óleo a mais, há o risco de começar a arder. Por isso, não circule com o carro e contacte a assistência retirar o óleo excedente.
+- Se o nível de óleo ainda estiver entre os limiares mínimo e máximo, pode respirar de alívio e procurar calmamente uma oficina.
+
+- Se o nível de óleo estiver abaixo do mínimo, pode ser uma avaria grave com potencial para gerar outra avaria ainda pior no motor. Por isso, recomendamos que encha o depósito ou, se possível, que evite conduzir. 
+
+- Se o nível do óleo estiver acima do máximo, trata-se de óleo em excesso! No caso de ter adicionado óleo a mais, há o risco de começar a arder. Por isso, não circule com o carro e contacte a assistência retirar o óleo excedente.
 
 ### 3. Procure a causa da fuga
 
@@ -62,8 +62,8 @@ Finalmente, como já explicámos, uma revisão pouco cuidadosa pode interferir c
 
 Depois de solucionar o problema, adopte algumas boas práticas para reduzir problemas com o óleo do carro no futuro:
 
-> Em primeiro lugar, utilize sempre o óleo recomendado pelo fabricante e evite óleos de baixa qualidade. Os óleos mais fracos contêm impurezas que danificam as partes mais cruciais no automóvel. Para poupar uns euros no óleo, está a hipotecar o seu motor.
+- Em primeiro lugar, utilize sempre o óleo recomendado pelo fabricante e evite óleos de baixa qualidade. Os óleos mais fracos contêm impurezas que danificam as partes mais cruciais no automóvel. Para poupar uns euros no óleo, está a hipotecar o seu motor.
 
-> Em segundo lugar, é recomendável trocar o filtro do óleo quando troca o óleo do motor. A função do filtro do óleo é precisamente filtrar as impurezas que ficam no óleo quando este lubrifica os diferentes componentes mecânicos do motor, como resíduos de combustão ou fragmentos metálicos. Por isso, um filtro antigo reduz a quantidade de óleo que passa para o motor.
+- Em segundo lugar, é recomendável trocar o filtro do óleo quando troca o óleo do motor. A função do filtro do óleo é precisamente filtrar as impurezas que ficam no óleo quando este lubrifica os diferentes componentes mecânicos do motor, como resíduos de combustão ou fragmentos metálicos. Por isso, um filtro antigo reduz a quantidade de óleo que passa para o motor.
 &nbsp;
 Esperamos que agora esteja consciente da importância de verificar regularmente o nível de óleo e de usar apenas as marcas de óleo lubrificante recomendadas pelo fabricante. A par desta informação, devia saber como mudar o óleo do carro, os tipos de óleo que existem e a sua durabilidade.
