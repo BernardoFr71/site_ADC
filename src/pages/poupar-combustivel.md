@@ -1,7 +1,7 @@
 ## 9 Melhores Dicas para Poupar Combustível
 &nbsp;
 ![combustives](https://www.oficinasmforce.pt/uploads/subcanais2/poupar_combustivel_.jpg)
-<br>
+
 Com os preços da gasolina e do gasóleo acima dos dois euros por litro, todos estamos a fazer contas à vida. Por isso, hoje trazemos 9 dicas para poupar combustível, a começar logo que abastece! 
 
 1. A POUPANÇA COMEÇA ENQUANTO ABASTECE
