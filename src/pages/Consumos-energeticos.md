@@ -37,14 +37,15 @@ Sabia que, em regra, para cada 50 quilos que transporta no seu carro o consumo d
 6. Verifique os Níveis de Óleo
 Verifique o nível do óleo com regularidade e faça as manutenções preventivas indicadas pelo fabricante. Se necessário, substitua o óleo e os filtros de combustível!
 &nbsp;
+
 ![troca](https://www.oficinasmforce.pt/uploads/subcanais2_conteudos/hghjgh.jpg)
 
 
 7. Tenha Atenção ao Ar Condicionado
 
-Verifique regularmente o estado do ar condicionado e de todos os filtros de ar do seu automóvel. Sabia que, se os filtros do seu carro não estiverem em condições, podem prejudicar bastante a performance do seu carro e a sua saúde? Quando os filtros estão obstruídos, bloqueiam o ar para o motor e este não tem tanto poder de arranque. Adicionalmente, as bactérias e cheiros que o filtro de ar já não consegue filtrar são muito nocivos para o condutor!
+- Verifique regularmente o estado do ar condicionado e de todos os filtros de ar do seu automóvel. Sabia que, se os filtros do seu carro não estiverem em condições, podem prejudicar bastante a performance do seu carro e a sua saúde? Quando os filtros estão obstruídos, bloqueiam o ar para o motor e este não tem tanto poder de arranque. Adicionalmente, as bactérias e cheiros que o filtro de ar já não consegue filtrar são muito nocivos para o condutor!
 
-Tenha atenção às várias situações em que deve ou não utilizar o ar condicionado. Sabia que, em determinados momentos, é melhor ligar o ar condicionado do que abrir as janelas? Se está a conduzir a uma velocidade continuamente superior a 60 km/h, compensa-lhe mais utilizar o AC. Este fenómeno acontece porque a resistência do ar com a janela é muito grande a estas velocidades e esse esforço faz com que gaste mais combustível do que se ligar o ar condicionado. Porém, se viaja a velocidades continuamente inferiores a 60 km/h, é preferível abrir as janelas!
+- Tenha atenção às várias situações em que deve ou não utilizar o ar condicionado. Sabia que, em determinados momentos, é melhor ligar o ar condicionado do que abrir as janelas? Se está a conduzir a uma velocidade continuamente superior a 60 km/h, compensa-lhe mais utilizar o AC. Este fenómeno acontece porque a resistência do ar com a janela é muito grande a estas velocidades e esse esforço faz com que gaste mais combustível do que se ligar o ar condicionado. Porém, se viaja a velocidades continuamente inferiores a 60 km/h, é preferível abrir as janelas!
 
 
 8. Verifique o Estado do Catalisador
