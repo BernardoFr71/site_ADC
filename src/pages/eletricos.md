@@ -75,7 +75,5 @@ o custo da utilização dos pontos de carregamento, que varia consoante o tarif�
 as taxas e impostos definidos pelo Estado, incluindo o IVA (23%) e o imposto especial de consumo de energia elétrica (IEC), que é 0.001 kWh em Portugal Continental. 
 Se quiser saber de antemão quanto vai pagar em cada posto, pode consultar a App Miio.
 
- 
-
 O QUE ACONTECE SE FICAR SEM BATERIA NO MEIO DA ESTRADA?
 O que acontece se o carro elétrico ficar sem bateria no meio da estrada? Há alguns anos, estaria em maus lençóis. Mas agora a Via Verde já instalou 32 postos de carregamento elétricos na A1 e na A2. A Brisa tem previsto instalar 82 postos de carregamento rápido e ultrarrápido em estações de serviço, incluindo na A3, na A6, na A4 e na A9. Portanto, mesmo que fique sem bateria, uma paragem de 15 minutos é o suficiente para seguir viagem.
