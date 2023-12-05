@@ -8,7 +8,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!*
 
-[Leia mais](#Dicas-oleo.md)
+[Leia mais](https://bernardofr71.github.io/site_ADC/Dicas-oleo/)
 
 ## 10 Boas Práticas para Reduzir Consumos Energéticos
 &nbsp;

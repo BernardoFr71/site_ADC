@@ -4,17 +4,17 @@
 
 - *Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!*
 
-# PARA QUE SERVE O ÓLEO DO CARRO? 
+## PARA QUE SERVE O ÓLEO DO CARRO? 
 &nbsp;
 Antes de mais, convém perceber quais são as funções do óleo:
 &nbsp;
->> 1. Lubrificação. As peças dentro do motor estão em constante rotação e fricção. Portanto, a principal função do óleo é lubrificar as componentes, reduzir o atrito e evitar o desgate das peças. Pela mesma razão, também diminui as emissões de CO2 e partículas para a atmosfera.
+1. Lubrificação. As peças dentro do motor estão em constante rotação e fricção. Portanto, a principal função do óleo é lubrificar as componentes, reduzir o atrito e evitar o desgate das peças. Pela mesma razão, também diminui as emissões de CO2 e partículas para a atmosfera.
 &nbsp;
->> 2. Arrefecimento. A combustão e a fricção das partes mecânicas faz com que a temperatura dentro do motor seja muito elevada. O óleo ajuda a retirar o calor do motor, o que previne o sobreaquecimento.
+2. Arrefecimento. A combustão e a fricção das partes mecânicas faz com que a temperatura dentro do motor seja muito elevada. O óleo ajuda a retirar o calor do motor, o que previne o sobreaquecimento.
 &nbsp;
->> 3. Limpeza. A fricção entre os componentes produz pequenos resíduos metálicos. Sem o óleo do motor, estas impurezas não são removidas e podem “entupir” o motor e reduzir muito a sua performance.
+3. Limpeza. A fricção entre os componentes produz pequenos resíduos metálicos. Sem o óleo do motor, estas impurezas não são removidas e podem “entupir” o motor e reduzir muito a sua performance.
 &nbsp;
->> 4. Ação anticorrosão. Os óleos modernos têm aditivos que atuam contra os ácidos corrosivos que circulam no motor. No entanto, quando o óleo entra em contacto com o oxigénio, oxida e perde este poder. Essa é uma das razões pela qual deve mudar o óleo com frequência!
+4. Ação anticorrosão. Os óleos modernos têm aditivos que atuam contra os ácidos corrosivos que circulam no motor. No entanto, quando o óleo entra em contacto com o oxigénio, oxida e perde este poder. Essa é uma das razões pela qual deve mudar o óleo com frequência!
 &nbsp;
 &nbsp;
 # O CARRO PERDE ÓLEO: QUE FAÇO?
