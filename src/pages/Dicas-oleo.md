@@ -4,7 +4,7 @@
 
 - *Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!*
 
-## PARA QUE SERVE O ÓLEO DO CARRO? 
+## <font color=\"red\"> PARA QUE SERVE O ÓLEO DO CARRO? </font>
 &nbsp;
 Antes de mais, convém perceber quais são as funções do óleo:
 &nbsp;
@@ -19,17 +19,16 @@ Antes de mais, convém perceber quais são as funções do óleo:
 &nbsp;
 # O CARRO PERDE ÓLEO: QUE FAÇO?
 &nbsp;
-## 1. Perceba se é mesmo óleo
+### 1. Perceba se é mesmo óleo
 &nbsp;
 Em primeiro lugar, calma! Certifique-se de que se trata mesmo de uma perda de óleo. A fuga de óleo tem uma cor negra ou castanha muito escura. No entanto, o carro também pode ter outras fugas que podem induzir o condutor em erro, nomeadamente: 
 &nbsp;
->> líquido refrigerante (normalmente de cor verde, laranja, rosa ou azul esverdeado)
->> óleo da transmissão do carro (cor avermelhada ou acastanhada)
->> óleo dos travões (amarelado)
->> ou mesmo água, que é apenas condensação decorrente do uso do ar condicionado.
+líquido refrigerante (normalmente de cor verde, laranja, rosa ou azul esverdeado)
+óleo da transmissão do carro (cor avermelhada ou acastanhada)
+óleo dos travões (amarelado) ou mesmo água, que é apenas condensação decorrente do uso do ar condicionado.
 &nbsp;
 &nbsp;
-2. Analise a gravidade da fuga
+### 2. Analise a gravidade da fuga
 &nbsp;
 A vareta do óleo está lá para nos ajudar a verificar o nível de óleo. No entanto, há alguns passos que deve tomar para garantir que a vareta é de facto o indicador correto:
 &nbsp;
@@ -47,7 +46,7 @@ A vareta do óleo está lá para nos ajudar a verificar o nível de óleo. No en
 &nbsp;
 &nbsp;
 
-## 3. Procure a causa da fuga
+### 3. Procure a causa da fuga
 &nbsp;
 As potenciais causas de uma fuga de óleo são tantas que o melhor é confiar essa análise a um profissional.
 &nbsp;  
@@ -62,12 +61,12 @@ Uma avaria no turbo pode dever-se a dois motivos: ou atingiu o fim de vida útil
 Finalmente, como já explicámos, uma revisão pouco cuidadosa pode interferir com o normal funcionamento do sistema de lubrificação. Por isso, faça sempre a revisão numa oficina que mantenha a garantia do fabricante.
 &nbsp;
 &nbsp;
-# COMO EVITAR FUGAS DE ÓLEO? 
+## COMO EVITAR FUGAS DE ÓLEO? 
 &nbsp;
 Depois de solucionar o problema, adopte algumas boas práticas para reduzir problemas com o óleo do carro no futuro:
 &nbsp;
->> Em primeiro lugar, utilize sempre o óleo recomendado pelo fabricante e evite óleos de baixa qualidade. Os óleos mais fracos contêm impurezas que danificam as partes mais cruciais no automóvel. Para poupar uns euros no óleo, está a hipotecar o seu motor.
+Em primeiro lugar, utilize sempre o óleo recomendado pelo fabricante e evite óleos de baixa qualidade. Os óleos mais fracos contêm impurezas que danificam as partes mais cruciais no automóvel. Para poupar uns euros no óleo, está a hipotecar o seu motor.
 &nbsp;
->> Em segundo lugar, é recomendável trocar o filtro do óleo quando troca o óleo do motor. A função do filtro do óleo é precisamente filtrar as impurezas que ficam no óleo quando este lubrifica os diferentes componentes mecânicos do motor, como resíduos de combustão ou fragmentos metálicos. Por isso, um filtro antigo reduz a quantidade de óleo que passa para o motor.
+Em segundo lugar, é recomendável trocar o filtro do óleo quando troca o óleo do motor. A função do filtro do óleo é precisamente filtrar as impurezas que ficam no óleo quando este lubrifica os diferentes componentes mecânicos do motor, como resíduos de combustão ou fragmentos metálicos. Por isso, um filtro antigo reduz a quantidade de óleo que passa para o motor.
 &nbsp;
 Esperamos que agora esteja consciente da importância de verificar regularmente o nível de óleo e de usar apenas as marcas de óleo lubrificante recomendadas pelo fabricante. A par desta informação, devia saber como mudar o óleo do carro, os tipos de óleo que existem e a sua durabilidade. 
