@@ -32,7 +32,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Saiba aqui quais os diferentes tipos de travões do mercado, bem como as suas vantagens e desvantagens.*
 
-[Leia mais]
+[Leia mais](https://bernardofr71.github.io/site_ADC/travoes/)
 
 
 ## 9 Melhores Dicas para Poupar Combustível
@@ -41,7 +41,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Com os preços da gasolina e do gasóleo acima dos 2€/ litro, todos estamos a fazer contas à vida. Trazemos-lhe 9 dicas para poupar combustível*
 
-[Leia mais]
+[Leia mais](https://bernardofr71.github.io/site_ADC/poupar-combustivel/)
 
 ## Como proteger os pneus no Verão
 &nbsp;
@@ -49,7 +49,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Os pneus são elementos vitais para a segurança e funcionamento do veículo. Com a chegada do verão, devemos ter alguns cuidados extra e verificar o estado das rodas antes de fazer viagens longas para os nossos destinos de férias.*
 
-[Leia mais]
+[Leia mais](https://bernardofr71.github.io/site_ADC/pneus/)
 
 ## Carros Elétricos: tudo o que precisa de saber
 &nbsp;
@@ -57,7 +57,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Os carros elétricos apresentam uma série de vantagens muito atrativas. Mas se continua a achar que “o elétrico talvez não seja para si” ou “não para já”, e nem entende bem que custos teria um carro elétrico, desfaça as suas dúvidas!*
 
-[Leia mais]
+[Leia mais](https://bernardofr71.github.io/site_ADC/eletricos/)
 
 ## Como saber se uma oficina de automóveis é de confiança?
 &nbsp;
@@ -65,7 +65,7 @@ Bem-vindo à nossa página de conselhos. Aqui, você encontrará informações e
 
 - *Descubra aqui os 6 fatores chave antes de tomar a decisão de escolher a sua oficina de automóveis!*
 
-[Leia mais]
+[Leia mais](https://bernardofr71.github.io/site_ADC/oficina/)
 
 
 ---
