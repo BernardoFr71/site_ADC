@@ -23,9 +23,11 @@ Antes de mais, convém perceber quais são as funções do óleo:
 &nbsp;
 Em primeiro lugar, calma! Certifique-se de que se trata mesmo de uma perda de óleo. A fuga de óleo tem uma cor negra ou castanha muito escura. No entanto, o carro também pode ter outras fugas que podem induzir o condutor em erro, nomeadamente: 
 &nbsp;
-líquido refrigerante (normalmente de cor verde, laranja, rosa ou azul esverdeado)
-óleo da transmissão do carro (cor avermelhada ou acastanhada)
-óleo dos travões (amarelado) ou mesmo água, que é apenas condensação decorrente do uso do ar condicionado.
+- líquido refrigerante (normalmente de cor verde, laranja, rosa ou azul esverdeado)
+&nbsp;
+- óleo da transmissão do carro (cor avermelhada ou acastanhada)
+&nbsp;
+- óleo dos travões (amarelado) ou mesmo água, que é apenas condensação decorrente do uso do ar condicionado.
 &nbsp;
 &nbsp;
 ### 2. Analise a gravidade da fuga
@@ -38,25 +40,31 @@ A vareta do óleo está lá para nos ajudar a verificar o nível de óleo. No en
 4. Insira a vareta até ao fundo do reservatório e retire-a cuidadosamente;
 5. Verifique se o óleo se encontra entre as indicações “mínimo” e “máximo”.
 &nbsp;
-✔ ️ Se o nível de óleo ainda estiver entre os limiares mínimo e máximo, pode respirar de alívio e procurar calmamente uma oficina.
 &nbsp;
-❌ Se o nível de óleo estiver abaixo do mínimo, pode ser uma avaria grave com potencial para gerar outra avaria ainda pior no motor. Por isso, recomendamos que encha o depósito ou, se possível, que evite conduzir. 
+- ✔ ️ Se o nível de óleo ainda estiver entre os limiares mínimo e máximo, pode respirar de alívio e procurar calmamente uma oficina.
 &nbsp;
-❌ Se o nível do óleo estiver acima do máximo, trata-se de óleo em excesso! No caso de ter adicionado óleo a mais, há o risco de começar a arder. Por isso, não circule com o carro e contacte a assistência retirar o óleo excedente.
+- ❌ Se o nível de óleo estiver abaixo do mínimo, pode ser uma avaria grave com potencial para gerar outra avaria ainda pior no motor. Por isso, recomendamos que encha o depósito ou, se possível, que evite conduzir. 
+&nbsp;
+- ❌ Se o nível do óleo estiver acima do máximo, trata-se de óleo em excesso! No caso de ter adicionado óleo a mais, há o risco de começar a arder. Por isso, não circule com o carro e contacte a assistência retirar o óleo excedente.
 &nbsp;
 &nbsp;
 
 ### 3. Procure a causa da fuga
 &nbsp;
 As potenciais causas de uma fuga de óleo são tantas que o melhor é confiar essa análise a um profissional.
+&nbsp;
 &nbsp;  
 Habitualmente, há três principais causas: fuga pelo reservatório, pelo turbo ou pela junta da cabeça do cilindro. Há uma quarta hipótese, associada a revisões pouco cuidadosas, em que podem ter forçado a junta da cabeça do cilindro ou encheram demasiado o depósito. 
 &nbsp;
+&nbsp;
 Dependendo da origem da avaria no seu carro, a resolução é muito diferente.  Por exemplo, a fuga a partir da junta da cabeça do cilindro é mais difícil de arranjar e, à partida, é mais dispendiosa. Esta avaria requer um procedimento mais exaustivo que as outras para garantir que o líquido refrigerador e o óleo não se misturam, o que seria catastrófico para o motor.
+&nbsp;
 &nbsp;
 Se houver uma fuga no reservatório, provavelmente será mais fácil de resolver. Habitualmente, trata-se de um parafuso mal apertado ou a arruela que precisa de ser substituída. Ambas são reparações rápidas e simples.
 &nbsp;
+&nbsp;
 Uma avaria no turbo pode dever-se a dois motivos: ou atingiu o fim de vida útil do turbocompressor, ou está a usar um óleo de má qualidade. Na MForce recomendamos usar sempre o óleo recomendado pelo fabricante e de marcas reconhecidas. Por outro lado, a troca completa de um turbocompressor acarreta custos muito mais avultados.
+&nbsp;
 &nbsp;
 Finalmente, como já explicámos, uma revisão pouco cuidadosa pode interferir com o normal funcionamento do sistema de lubrificação. Por isso, faça sempre a revisão numa oficina que mantenha a garantia do fabricante.
 &nbsp;
@@ -65,8 +73,11 @@ Finalmente, como já explicámos, uma revisão pouco cuidadosa pode interferir c
 &nbsp;
 Depois de solucionar o problema, adopte algumas boas práticas para reduzir problemas com o óleo do carro no futuro:
 &nbsp;
+&nbsp;
 Em primeiro lugar, utilize sempre o óleo recomendado pelo fabricante e evite óleos de baixa qualidade. Os óleos mais fracos contêm impurezas que danificam as partes mais cruciais no automóvel. Para poupar uns euros no óleo, está a hipotecar o seu motor.
 &nbsp;
+&nbsp;
 Em segundo lugar, é recomendável trocar o filtro do óleo quando troca o óleo do motor. A função do filtro do óleo é precisamente filtrar as impurezas que ficam no óleo quando este lubrifica os diferentes componentes mecânicos do motor, como resíduos de combustão ou fragmentos metálicos. Por isso, um filtro antigo reduz a quantidade de óleo que passa para o motor.
+&nbsp;
 &nbsp;
 Esperamos que agora esteja consciente da importância de verificar regularmente o nível de óleo e de usar apenas as marcas de óleo lubrificante recomendadas pelo fabricante. A par desta informação, devia saber como mudar o óleo do carro, os tipos de óleo que existem e a sua durabilidade. 
