@@ -4,7 +4,7 @@
 
 - *Encontrou uma fuga por baixo do carro? Acha que o seu carro está a perder óleo? Assim que notar a primeira fuga no chão da garagem ou no local onde estacionou, saiba o que fazer!*
 
-## <font color=\"red\"> PARA QUE SERVE O ÓLEO DO CARRO? </font>
+## PARA QUE SERVE O ÓLEO DO CARRO?
 &nbsp;
 Antes de mais, convém perceber quais são as funções do óleo:
 &nbsp;
