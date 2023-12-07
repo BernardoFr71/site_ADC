@@ -2,8 +2,6 @@
 
 ![bdt](https://www.bdt.de/fileadmin/theming/logo/BDT_Logo_RGB.svg)
 
-## Sobre Nós
-
 A Oficina BDT é sua parceira confiável para serviços automotivos de alta qualidade. Com uma equipe de profissionais qualificados e instalações modernas, estamos dedicados a fornecer os melhores serviços para o seu veículo.
 
 ### Nossos Serviços
