@@ -1,10 +1,12 @@
 # Serviços Oferecidos na Oficina BDT
 
 <style>
+
   table {
     border-collapse: collapse;
     border: none;
   }
+
 </style>
 
 | **Serviço**                 | **Descrição**                                                                                                  | **Benefícios**                                                                                                             |
