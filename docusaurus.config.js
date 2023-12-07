@@ -73,6 +73,7 @@ const config = {
         items: [
           {to: '/faturas', label: 'Faturas', position: 'left'},
           {to: '/Conselhos', label: 'Dicas', position: 'left'},
+          {to: '/servicos', label: 'Servicos', position: 'left'},
           {to: '/sobre-nos', label: 'Sobre Nós', position: 'left'},
         ],
       },
