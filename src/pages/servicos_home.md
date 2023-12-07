@@ -1,8 +1,8 @@
 # Serviços Oferecidos na Oficina BDT
 
-> "travoes"
+> ## travoes
 &nbsp;
-![travoes](./static/img/travoes.png)
+![travoes](../../static/img/travoes.png)
 
 - *Manutencao e reparação do sistema de travagem
 
