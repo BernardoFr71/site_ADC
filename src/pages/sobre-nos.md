@@ -10,13 +10,13 @@ Bernardo é o fundador da Oficina BDT. Com vasta experiência em mecânica autom
 
 ## Diogo Rodrigues
 
-
+![Diogo Rodrigues](https://cdn-icons-png.flaticon.com/512/843/843251.png)
 
 Diogo é um membro essencial da nossa equipa de mecânicos. A sua habilidade técnica e atenção aos detalhes garantem que cada veículo receba o tratamento cuidadoso que merece.
 
 ## Tomas Anastacio
 
-
+![Tomas Anastacio](https://cdn-icons-png.flaticon.com/512/9576/9576233.png)
 
 Tomas é responsável pela personalização de veículos na Oficina BDT. A sua criatividade e habilidade técnica resultam em projetos únicos que refletem a personalidade de cada cliente.
 
