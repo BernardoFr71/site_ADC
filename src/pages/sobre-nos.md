@@ -4,7 +4,7 @@ Bem-vindo à equipa da Oficina BDT! A nossa equipa é composta por profissionais
 
 ## Bernardo Freitas
 
-![Bernardo Freitas](https://cdn4.iconfinder.com/data/icons/job-resume-9/100/job_work_office-15-512.png)
+![Bernardo Freitas](https://cdn-icons-png.flaticon.com/512/6813/6813541.png)
 
 Bernardo é o fundador da Oficina BDT. Com vasta experiência em mecânica automotiva, ele lidera a nossa equipa com paixão e compromisso, garantindo os mais altos padrões de qualidade.
 
