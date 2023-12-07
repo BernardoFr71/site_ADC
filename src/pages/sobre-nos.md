@@ -4,7 +4,7 @@ Bem-vindo à equipa da Oficina BDT! A nossa equipa é composta por profissionais
 
 ## Bernardo Freitas
 
-![Bernardo Freitas](./bernardo.jpg)
+![Bernardo Freitas](static/img/bernardo.jpg)
 
 Bernardo é o fundador da Oficina BDT. Com vasta experiência em mecânica automotiva, ele lidera a nossa equipa com paixão e compromisso, garantindo os mais altos padrões de qualidade.
 
@@ -16,7 +16,7 @@ Diogo é um membro essencial da nossa equipa de mecânicos. A sua habilidade té
 
 ## Tomas Anastacio
 
-![Tomas Anastacio](./tomas.jpg)
+![Tomas Anastacio](static/img/tomas.jpg)
 
 Tomas é responsável pela personalização de veículos na Oficina BDT. A sua criatividade e habilidade técnica resultam em projetos únicos que refletem a personalidade de cada cliente.
 
