@@ -31,5 +31,5 @@
 
 td, th, thead, tbody, tr{
   border: none!important;
-  background-color: white!important;
+  background-color: transparent!important;
 }
