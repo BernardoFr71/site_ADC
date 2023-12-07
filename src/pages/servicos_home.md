@@ -1,5 +1,9 @@
 # Serviços Oferecidos na Oficina BDT
 
-| **Serviço**                 | **Descrição**                                                                                                  | **Benefícios**                                                                                                             |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Manutenção Geral**        | Realizamos revisões periódicas para garantir o bom estado do seu veículo.                                      | Aumento da vida útil do carro e detecção precoce de possíveis problemas.                                                    |
+> ## Travoes
+&nbsp;
+![travoes](./static/img/travoes.png)
+
+- *Manutencao e reparação do sistema de travagem
+
+[Saiba mais](https://bernardofr71.github.io/site_ADC/servicos_travoes/)
