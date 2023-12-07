@@ -16,7 +16,9 @@
 [Saiba mais](https://bernardofr71.github.io/site_ADC/servicos_travoes/)
 
 <style>
-td, th{border:none!important;}
+td, th {
+border: none!important;
+}
 </style>
 
 | **Serviço**                 | **Descrição**                                                                                                  | **Benefícios**                                                                                                             |
