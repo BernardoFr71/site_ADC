@@ -75,6 +75,7 @@ const config = {
           {to: '/Conselhos', label: 'Dicas', position: 'left'},
           {to: '/servicos', label: 'Servicos', position: 'left'},
           {to: '/sobre-nos', label: 'Sobre Nós', position: 'left'},
+          {to: '/servicos_home', label: 'Servicos', position: 'left'},
         ],
       },
       footer: {
